@@ -1,5 +1,6 @@
 import Button from '../../SharedCompontes/Button'
-import innerImage from '../../../assets/h1-img-03.jpg'
+// import innerImage from '../../../assets/h1-img-03.jpg'
+import innerImage from '../../../assets/pexels-amar-saleem-70441.jpg'
 
 function Luxury() {
   return (

@@ -2,13 +2,13 @@ import Button from "./Button"
 
 function NavBar() {
   return (
-    <div className="navbar bg-transparent text-[#DCC69C] pt-10">
+    <div className="navbar bg-transparent text-[#DCC69C]  lg:pt-10 ">
   <div className="navbar-start">
   <Button  buttonName={'Reserve'}  />
     
   </div>
   <div className="navbar-center">
-    <a className="btn btn-ghost  text-2xl uppercase tracking-widest">Richmond</a>
+    <a className="btn btn-ghost  text-2xl uppercase tracking-widest hidden sm:block">Richmond</a>
   </div>
   <div className="navbar-end ">
   <div className="dropdown">

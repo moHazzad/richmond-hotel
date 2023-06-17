@@ -32,9 +32,9 @@ export default function Connect() {
         </a>
       </div>
 
-      <div className="grid md:grid-cols-4 grid-cols-1 gap-8  my-10 ">
+      <div className="grid md:grid-cols-4 grid-cols-1 gap-6  my-10 ">
       {instaImage.map((service, index) => (
-  <div className="hero h-48 relative" style={{ backgroundImage: `url(${service.image})` }} key={index}>
+  <div className="hero h-64 relative" style={{ backgroundImage: `url(${service.image})` }} key={index}>
     <div className=" hero-overlay bg-black bg-opacity-50 absolute inset-0 opacity-0 transition-opacity duration-300"></div>
     <div className="hero-content text-center text-neutral-content absolute inset-0 opacity-0 transition-opacity duration-300 hover:opacity-100">
       <div className="max-w-md">
