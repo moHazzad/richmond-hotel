@@ -1,0 +1,28 @@
+/* FeedBack.css */
+
+.fader {
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .fader__slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .fader__slide.keen-slider__slide {
+    opacity: 1;
+  }
+  
+  .fader img {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+  }
