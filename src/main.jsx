@@ -7,6 +7,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Home from './Components/Pages/Home/Home.jsx';
+import AllRooms from './Components/Pages/AllRooms/AllRooms.jsx';
 
 const router = createBrowserRouter([
   {
@@ -16,7 +17,12 @@ const router = createBrowserRouter([
     children:[{
       path: '/',
       element: <Home />
-    }]
+    },
+    {
+      path:"allRooms",
+      element: <AllRooms />
+    }
+  ]
   },
 ]);
 

@@ -1,10 +1,11 @@
 import Button from "./Button"
+import {Link} from "react-router-dom"
 
 function NavBar() {
   return (
     <div className="navbar bg-transparent text-[#DCC69C]  lg:pt-10 ">
   <div className="navbar-start">
-  <Button  buttonName={'Reserve'}  />
+   <Link to={'/allRooms'}><Button   buttonName={'Reserve'}  /></Link>
     
   </div>
   <div className="navbar-center">

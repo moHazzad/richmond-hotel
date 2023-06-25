@@ -1,0 +1,155 @@
+[
+  {
+    "roomPicturs": "../src/assets/room1.jpg",
+    "roomType": "Standard",
+    "capacity": 2,
+    "id": 1,
+    "bed": "Queen",
+    "bathroom": "Private",
+    "details": "Cozy room with a queen-sized bed and a private bathroom.",
+    "facilities": [
+      {
+        "icon": "air-conditioner",
+        "facilitiesTitle": "Air Conditioner"
+      },
+      {
+        "icon": "bathtub",
+        "facilitiesTitle": "Bathtub"
+      },
+      {
+        "icon": "cable-tv",
+        "facilitiesTitle": "Cable TV"
+      },
+      {
+        "icon": "city-map",
+        "facilitiesTitle": "City Map"
+      },
+      {
+        "icon": "hairdryer",
+        "facilitiesTitle": "Hairdryer"
+      },
+      {
+        "icon": "wifi",
+        "facilitiesTitle": "High Speed WiFi"
+      },
+      {
+        "icon": "king-bed",
+        "facilitiesTitle": "King Size Bed"
+      },
+      {
+        "icon": "parking",
+        "facilitiesTitle": "Parking"
+      },
+      {
+        "icon": "room-service",
+        "facilitiesTitle": "Room Service"
+      },
+      {
+        "icon": "swimming-pool",
+        "facilitiesTitle": "Swimming Pool"
+      }
+    ]
+  },
+  {
+    "roomPicturs": "../src/assets/room2.jpg",
+    "roomType": "Deluxe",
+    "capacity": 4,
+    "bed": "King",
+    "id": 2,
+    "bathroom": "En-suite",
+    "details": "Spacious room with a king-sized bed and an en-suite bathroom.",
+    "facilities": [
+      {
+        "icon": "air-conditioner",
+        "facilitiesTitle": "Air Conditioner"
+      },
+      {
+        "icon": "bathtub",
+        "facilitiesTitle": "Bathtub"
+      },
+      {
+        "icon": "cable-tv",
+        "facilitiesTitle": "Cable TV"
+      },
+      {
+        "icon": "city-map",
+        "facilitiesTitle": "City Map"
+      },
+      {
+        "icon": "hairdryer",
+        "facilitiesTitle": "Hairdryer"
+      },
+      {
+        "icon": "wifi",
+        "facilitiesTitle": "High Speed WiFi"
+      },
+      {
+        "icon": "king-bed",
+        "facilitiesTitle": "King Size Bed"
+      },
+      {
+        "icon": "parking",
+        "facilitiesTitle": "Parking"
+      },
+      {
+        "icon": "room-service",
+        "facilitiesTitle": "Room Service"
+      },
+      {
+        "icon": "swimming-pool",
+        "facilitiesTitle": "Swimming Pool"
+      }
+    ]
+  },
+  {
+    "roomPicturs": "../src/assets/room3.jpg",
+    "roomType": "Suite",
+    "id": 3,
+    "capacity": 3,
+    "bed": "King",
+    "bathroom": "Private",
+    "details": "Luxurious suite with a king-sized bed and a private bathroom.",
+    "facilities": [
+      {
+        "icon": "air-conditioner",
+        "facilitiesTitle": "Air Conditioner"
+      },
+      {
+        "icon": "bathtub",
+        "facilitiesTitle": "Bathtub"
+      },
+      {
+        "icon": "cable-tv",
+        "facilitiesTitle": "Cable TV"
+      },
+      {
+        "icon": "city-map",
+        "facilitiesTitle": "City Map"
+      },
+      {
+        "icon": "hairdryer",
+        "facilitiesTitle": "Hairdryer"
+      },
+      {
+        "icon": "wifi",
+        "facilitiesTitle": "High Speed WiFi"
+      },
+      {
+        "icon": "king-bed",
+        "facilitiesTitle": "King Size Bed"
+      },
+      {
+        "icon": "parking",
+        "facilitiesTitle": "Parking"
+      },
+      {
+        "icon": "room-service",
+        "facilitiesTitle": "Room Service"
+      },
+      {
+        "icon": "swimming-pool",
+        "facilitiesTitle": "Swimming Pool"
+      }
+    ]
+  }
+]
